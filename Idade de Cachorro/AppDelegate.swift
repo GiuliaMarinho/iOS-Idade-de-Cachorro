@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Idade de Cachorro
 //
-//  Created by Giulia Ketlin Dias Marinho on 03/04/24.
+//  Created by Giulia Marinho on 03/04/24.
 //
 
 import UIKit
