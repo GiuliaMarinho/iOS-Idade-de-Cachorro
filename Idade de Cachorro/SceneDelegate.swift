@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Idade de Cachorro
 //
-//  Created by Luccas Santana Marinho on 03/04/24.
+//  Created by Giulia Ketlin Dias Marinho on 03/04/24.
 //
 
 import UIKit
